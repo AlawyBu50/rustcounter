@@ -1,3 +1,6 @@
+Author: Ali Bukhamseen
+
+
 # rustcounter  a Rust Linux Kernel Counter Module
 
 `rustcounter` is a Linux kernel module written in Rust that creates a character device at `/dev/rustcounter`.
